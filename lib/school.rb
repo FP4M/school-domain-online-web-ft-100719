@@ -13,5 +13,5 @@ class school
      @atudent_name = name
      @grade = grade
      if roster.include?(grade) == false
-       @roster[grade]= []
+       @roster[grade] = []
   end
