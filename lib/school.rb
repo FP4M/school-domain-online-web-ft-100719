@@ -6,3 +6,6 @@ class school
   end 
   
   def roster
+     @roster
+  end
+  
